@@ -1,6 +1,6 @@
 {
     "name": "node-search-file",
-    "version": "1.0.6",
+    "version": "1.1.2",
     "description": "a node,js tool for searching keyword in a certain directory recursively",
     "main": "index.js",
     "scripts": {
