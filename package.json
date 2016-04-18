@@ -1,13 +1,17 @@
 {
-    "name": "node_search",
-    "version": "1.0.0",
-    "description": "search file content",
+    "name": "node-search-file",
+    "version": "1.0.1",
+    "description": "a node,js tool for searching keyword in a certain directory recursively",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
         "sch": "./index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/AngusFu/gulp-dotjs-compiler.git"
     },
     "author": "angusfu1126@qq.com",
     "license": "MIT"
