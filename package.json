@@ -1,0 +1,14 @@
+{
+    "name": "node_search",
+    "version": "1.0.0",
+    "description": "search file content",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "sch": "./index.js"
+    },
+    "author": "angusfu1126@qq.com",
+    "license": "MIT"
+}
