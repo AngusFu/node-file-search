@@ -4,7 +4,7 @@ a node.js tool for searching keyword in a certain directory recursively
 
 遍历文件夹中的文本文件，快速定位关键词
 
-(中文切换)[./README_zh.md]
+[中文切换](./README_zh.md)
 
 ## How to Use
 
