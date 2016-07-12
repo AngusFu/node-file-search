@@ -1,4 +1,4 @@
-# SearchDirContent
+# node-search-file
 
 遍历文件夹中的文本文件，快速定位关键词
 
